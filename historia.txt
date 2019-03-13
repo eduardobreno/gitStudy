@@ -2,13 +2,26 @@
 Bagre branco, branco bagre.
 O padre pouca capa tem, porque pouca capa compra.
 O rato roeu a roupa do Rei de roma, a rainha com raiva resolveu remendar.
+
 Num ninho de mafagafos, cinco mafagafinhos há! Quem os desmafagafizá-los, um bom desmafagafizador será.
 A Iara agarra e amarra a rara arara de Araraquara.
+<<<<<<< HEAD
 Em rápido rapto, um rápido rato raptou três ratos sem deixar rastros.
+=======
+
+O bispo de Constantinopla, é um bom desconstantinopolitanizador. Quem o desconstantinopolitanizar, um bom desconstantinopolitanizador será.
+>>>>>>> hist02: 01
 Esta casa está ladrilhada, quem a desenladrilhará? O desenladrilhador. O desenladrilhador que a desenladrilhar, bom desenladrilhador será!
+
 O original não se desoriginaliza! O original não se desoriginaliza! O original não se desoriginaliza! Se desoriginalizásemo-lo original não seria!
 Fia, fio a fio , fino fio, frio a frio.
 
+<<<<<<< HEAD
 Trazei três pratos de trigo para três tigres tristes comerem.
 
 O bispo de Constantinopla, é um bom desconstantinopolitanizador. Quem o desconstantinopolitanizar, um bom desconstantinopolitanizador será.
+=======
+Em rápido rapto, um rápido rato raptou três ratos sem deixar rastros.
+Bagre branco, branco bagre.
+O padre pouca capa tem, porque pouca capa compra.
+>>>>>>> hist02: 01
