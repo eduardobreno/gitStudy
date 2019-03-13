@@ -9,6 +9,7 @@ A Iara agarra e amarra a rara arara de Araraquara.
 Em rápido rapto, um rápido rato raptou três ratos sem deixar rastros.
 =======
 
+<<<<<<< HEAD
 O bispo de Constantinopla, é um bom desconstantinopolitanizador. Quem o desconstantinopolitanizar, um bom desconstantinopolitanizador será.
 >>>>>>> hist02: 01
 Esta casa está ladrilhada, quem a desenladrilhará? O desenladrilhador. O desenladrilhador que a desenladrilhar, bom desenladrilhador será!
@@ -28,21 +29,21 @@ O padre pouca capa tem, porque pouca capa compra.
 >>>>>>> hist02: 01
 =======
 O original não se desoriginaliza! O original não se desoriginaliza! O original não se desoriginaliza! Se desoriginalizásemo-lo original não seria!
+=======
+O bispo de Constantinopla, é um bom desconstantinopolitanizador. Quem o desconstantinopolitanizar, um bom desconstantinopolitanizador será.O original não se desoriginaliza! O original não se desoriginaliza! O original não se desoriginaliza! Se desoriginalizásemo-lo original não seria!
+>>>>>>> hist02: 03
 Fia, fio a fio , fino fio, frio a frio.
 
 Em rápido rapto, um rápido rato raptou três ratos sem deixar rastros.
 Bagre branco, branco bagre.
 O padre pouca capa tem, porque pouca capa compra.
-O original não se desoriginaliza! O original não se desoriginaliza! O original não se desoriginaliza! Se desoriginalizásemo-lo original não seria!
-Fia, fio a fio , fino fio, frio a frio.
 
-Em rápido rapto, um rápido rato raptou três ratos sem deixar rastros.
-Bagre branco, branco bagre.
-O padre pouca capa tem, porque pouca capa compra.
-O original não se desoriginaliza! O original não se desoriginaliza! O original não se desoriginaliza! Se desoriginalizásemo-lo original não seria!
-Fia, fio a fio , fino fio, frio a frio.
 
+<<<<<<< HEAD
 Em rápido rapto, um rápido rato raptou três ratos sem deixar rastros.
 Bagre branco, branco bagre.
 O padre pouca capa tem, porque pouca capa compra.
 >>>>>>> hist02: 02
+=======
+Esta casa está ladrilhada, quem a desenladrilhará? O desenladrilhador. O desenladrilhador que a desenladrilhar, bom desenladrilhador será!
+>>>>>>> hist02: 03
